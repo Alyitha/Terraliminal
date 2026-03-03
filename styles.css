@@ -48,6 +48,10 @@ main {
     color: red;
 }
 
+#glitchtext {
+    text-shadow: 2px 0 red, -2px 0 cyan;
+}
+
 .item {
     opacity: 0;
     animation: fadeIn 0.5s forwards;
