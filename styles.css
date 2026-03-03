@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(#000000, #033903, #000000);
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    background: linear-gradient(to right, #033903, black, #033903);
+    text-shadow: 1px 1px 1px  #000000;
+}
+
+* {
+    color: white;
+}
