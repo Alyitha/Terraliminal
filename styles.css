@@ -28,7 +28,7 @@ nav a:hover {
 }
 
 main {
-    background-image: url('../VSCode/photos/photo2.png');
+    background-image: url('photos/photo2.png');
     width: 100vw;
     height: 100vw;
     background-size: contain;
